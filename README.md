@@ -116,7 +116,6 @@ void loop()
 ## schematic diagram:
 ![Screenshot 2024-02-22 111444](https://github.com/vinushcv/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/113975318/17835867-2ca4-4c8a-8e60-8d7f3120e566)
 
-[My image](username.github.com/repository/img/image.jpg)
 
 
 
