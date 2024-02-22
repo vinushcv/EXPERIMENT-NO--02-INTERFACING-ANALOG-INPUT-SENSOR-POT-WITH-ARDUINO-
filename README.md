@@ -68,6 +68,8 @@ CIRCUIT DIAGRAM
 
 **PROGRAM** 
 ```c
+name:vinush.cv
+reg no:212222230176
 int led=4;
 int sensorpot;
 void setup()
